@@ -1,0 +1,8 @@
+Config: Test
+Mail: gmail.com
+    smtp: smtp.gmail.com
+    imap: imap.gmail.com
+    pop3: pop.gmail.com
+    user:
+        password: secret
+        name: Test User
